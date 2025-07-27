@@ -50,7 +50,7 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 - Conducted exploratory data analysis (EDA) using GenAI tools to assess data quality, identify risk indicators, and structure insights for predictive modelling.
 - Proposed and justified an initial no-code predictive modelling framework to assess customer delinquency risk, leveraging GenAI for structured model logic and evaluation criteria.
 - Designed an AI-driven collections strategy leveraging agentic AI and automation, incorporating ethical AI principles, regulatory compliance, and scalable implementation frameworks
-- 🎓 Certificate available on request
+- 🎓 [View Certificate](./TATA_GENAI_Certificate.pdf)
 
 ---
 
