@@ -35,10 +35,11 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 
 ---
 
-### 🧾 [Retail Sales Analysis (Excel)](https://github.com/Aiswarya196?tab=repositories&q=retail&type=&language=&sort=)
-- Cleaned and analyzed sales data using **Excel**
-- Used pivot tables, filters, and functions to summarize key metrics
-- Built visual summaries to explore customer behavior and product trends
+### 🧾 [Retail Sales Analysis (Python)](https://github.com/Aiswarya196?tab=repositories&q=retail&type=&language=&sort=)
+- A data exploration project using Python and Jupyter Notebook on a retail transaction dataset.
+- It includes cleaning, descriptive analysis, and visualizations to identify trends in sales, profit, and margins across customer segments, regions, and time.
+- Built visual summaries to explore customer behavior and product trends.
+- Tools & Skills: Python · Pandas · Seaborn · Matplotlib · Jupyter Notebook · EDA · Data Visualization
 - [View Project](https://github.com/Aiswarya196?tab=repositories&q=retail&type=&language=&sort=)
 
 ---
