@@ -53,6 +53,11 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 - Designed an AI-driven collections strategy leveraging agentic AI and automation, incorporating ethical AI principles, regulatory compliance, and scalable implementation frameworks
 - 🎓 [View Certificate](./TATA_GENAI_Certificate.pdf)
 
+### Data Engineering Basics for Data Analysts – Codebasics (2025)
+- Learned fundamentals of data engineering concepts such as ETL pipelines, data modeling, and workflows.
+- Understood how analysts can collaborate with data engineers to streamline data access and analysis.
+- Applied learnings to structure datasets more efficiently for reporting and dashboards.
+- 🎓 [View Certificate](./TATA_GENAI_Certificate.pdf)
 ---
 
 ## 📬 Let's Connect!
