@@ -16,6 +16,14 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 
 ## 📌 Featured Projects
 
+### [End-to-End Supply Chain Analytics Project | n8n, Quadratic, Supabase, PostgreSQL ]
+- Built an AI-powered supply chain analytics pipeline to automate data ingestion, storage, and real-time KPI tracking.
+- Designed an end-to-end workflow: Email (spreadsheets) → n8n (automation) → PostgreSQL (Supabase) → Quadratic (AI analytics).
+- Tracked key KPIs including On-Time Delivery %, In-Full Delivery %, OTIF %, Fill Rates, and Total Orders.
+- Generated business insights like monthly on-time performance and top customers by order value.
+- Improved skills in workflow automation, AI prompting, and cloud-hosted databases.
+🔗 View Project Repository(https://github.com/Aiswarya196/supply-chain-analytics-ai)
+
 ### 📊 [Power BI Sales Dashboard](https://github.com/Aiswarya196/PowerBI-Sales-Dashboard)
 - Built an interactive sales dashboard using **Power BI**
 - Connected to a **MySQL** database for data extraction
@@ -57,7 +65,9 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 - Learned fundamentals of data engineering concepts such as ETL pipelines, data modeling, and workflows.
 - Understood how analysts can collaborate with data engineers to streamline data access and analysis.
 - Applied learnings to structure datasets more efficiently for reporting and dashboards.
-- 🎓 [View Certificate](./TATA_GENAI_Certificate.pdf)
+- 🎓 [View Certificate](https://github.com/Aiswarya196/project-portfolio/blob/main/Certificate.pdf)
+
+### SQL Hackerrank - Intermediate certified
 ---
 
 ## 📬 Let's Connect!
