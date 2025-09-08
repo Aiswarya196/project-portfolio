@@ -16,7 +16,7 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 
 ## 📌 Featured Projects
 
-### [End-to-End Supply Chain Analytics Project | n8n, Quadratic, Supabase, PostgreSQL ]
+### [End-to-End Supply Chain Analytics Project using AI tools](https://github.com/Aiswarya196/supply-chain-analytics-ai)
 - Built an AI-powered supply chain analytics pipeline to automate data ingestion, storage, and real-time KPI tracking.
 - Designed an end-to-end workflow: Email (spreadsheets) → n8n (automation) → PostgreSQL (Supabase) → Quadratic (AI analytics).
 - Tracked key KPIs including On-Time Delivery %, In-Full Delivery %, OTIF %, Fill Rates, and Total Orders.
