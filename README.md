@@ -16,6 +16,33 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 
 ## 📌 Featured Projects
 
+## 📊 Bank Loan Report Dashboard
+
+**Description:**  
+A dashboard project built using **SQL Server Management Studio (SSMS)** and **Excel** to analyze 38,000+ loan records, track KPIs, and provide actionable insights for banking stakeholders.
+
+**Key Features & Highlights:**  
+- Developed **3 interactive dashboards** (Summary, Overview, Details) providing a 360° view of the bank’s loan portfolio.  
+- Key insights:
+  - **86%** of loans are Good Loans
+  - **Debt Consolidation** is the top loan purpose
+  - Borrowers with **10+ years employment** dominate
+  - Regional concentration of loan applications
+  - Preference for **36-month loan terms**
+- Enabled real-time KPI tracking and differentiation between Good and Bad loans.  
+- Provided a **data-driven foundation** for strategic planning and risk management.
+
+**Tools & Skills Used:**  
+`SQL Server Management Studio (SSMS)` | `Excel (PivotTables, Charts, Slicers, Tree Maps)` | `Data Analysis & Visualization`
+
+**Snapshots:**  
+![Overview Dashboard]([Dashboard_screenshots/OVERVIEW_DASHBOARD.png](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards/blob/main/Dashboard%20screenshots/OVERVIEW%20DASHBOARD.png))  
+![Summary Dashboard]([Dashboard_screenshots/SUMMARY_DASHBOARD.png](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards/blob/main/Dashboard%20screenshots/SUMMARY%20DASHBOARD.png))
+
+[🔗 View Project on GitHub]([https://github.com/YourUsername/YourRepoName](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards.git))
+
+---
+
 ### [End-to-End Supply Chain Analytics Project using AI tools](https://github.com/Aiswarya196/supply-chain-analytics-ai)
 - Built an AI-powered supply chain analytics pipeline to automate data ingestion, storage, and real-time KPI tracking.
 - Designed an end-to-end workflow: Email (spreadsheets) → n8n (automation) → PostgreSQL (Supabase) → Quadratic (AI analytics).
@@ -23,6 +50,8 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 - Generated business insights like monthly on-time performance and top customers by order value.
 - Improved skills in workflow automation, AI prompting, and cloud-hosted databases.
 🔗 View Project Repository(https://github.com/Aiswarya196/supply-chain-analytics-ai)
+
+---
 
 ### 📊 [Power BI Sales Dashboard](https://github.com/Aiswarya196/PowerBI-Sales-Dashboard)
 - Built an interactive sales dashboard using **Power BI**
@@ -68,6 +97,7 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 - 🎓 [View Certificate](https://github.com/Aiswarya196/project-portfolio/blob/main/Certificate.pdf)
 
 ### SQL Hackerrank - Intermediate certified
+- 🎓 [View Certificate](https://github.com/Aiswarya196/project-portfolio/blob/main/HackerRank%20SQL(Intermediate)%20certificate.png))
 ---
 
 ## 📬 Let's Connect!
