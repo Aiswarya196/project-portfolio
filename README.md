@@ -39,7 +39,7 @@ A dashboard project built using **SQL Server Management Studio (SSMS)** and **Ex
 ![Overview Dashboard]([Dashboard_screenshots/OVERVIEW_DASHBOARD.png](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards/blob/main/Dashboard%20screenshots/OVERVIEW%20DASHBOARD.png))  
 ![Summary Dashboard]([Dashboard_screenshots/SUMMARY_DASHBOARD.png](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards/blob/main/Dashboard%20screenshots/SUMMARY%20DASHBOARD.png))
 
-[🔗 View Project on GitHub]([https://github.com/YourUsername/YourRepoName](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards.git))
+[🔗 View Project on GitHub](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards.git)
 
 ---
 
