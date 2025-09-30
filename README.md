@@ -11,14 +11,43 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 - **Visualization**: Power BI, matplotlib, seaborn
 - **Databases**: MySQL
 - **Tools**: VS Code, GitHub, Forage, Excel
+- Machine learning and Data engineering fundamentals
 
 ---
 
 ## 📌 Featured Projects
 
-## 📊 Bank Loan Report Dashboard
+## 🕵️ Fake Job Post Detection using NLP & Machine Learning
+A Machine Learning + NLP project that identifies fraudulent job postings. Features TF-IDF text vectorization, Logistic Regression, visualizations, and an interactive Streamlit app for real-time predictions.
 
-**Description:**  
+**Key Features & Highlights:** 
+- End-to-End ML Pipeline: Data cleaning → feature extraction → model training → evaluation → deployment.
+- Dataset: ~17,000 job postings (real + fake) from Kaggle.
+- Real-Time Prediction: Detect if a job posting is fake or real via a Streamlit web app.
+- Text Preprocessing: Automatic cleaning, stopword removal, and stemming of job descriptions.
+- Feature Extraction: Uses TF-IDF vectorization to convert text into machine-readable features.
+- Classification: Logistic Regression model trained to classify real vs. fake job posts.
+- Visual Insights:
+    - WordClouds for each class
+    - Top-N keywords bar plots
+    - Text length distribution by label
+    - Class distribution bar chart  
+-Model Evaluation: Accuracy, ROC curves, Precision-Recall curves, and analysis of most informative features.
+**Skills demonstrated:**
+- NLP & text preprocessing
+- Machine Learning pipeline
+- Data visualization
+- Model deployment & GitHub documentation
+
+**Snapshots:**  
+![View](Screenshot_fake_job_post.PNG)  
+
+
+[🔗 View Project](https://github.com/Aiswarya196/fake-job-post-detection.git)
+
+---
+
+## 📊 Bank Loan Report Dashboard
 A dashboard project built using **SQL Server Management Studio (SSMS)** and **Excel** to analyze 38,000+ loan records, track KPIs, and provide actionable insights for banking stakeholders.
 
 **Key Features & Highlights:**  
