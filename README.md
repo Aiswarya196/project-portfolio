@@ -33,6 +33,7 @@ A Machine Learning + NLP project that identifies fraudulent job postings. Featur
     - Text length distribution by label
     - Class distribution bar chart  
 -Model Evaluation: Accuracy, ROC curves, Precision-Recall curves, and analysis of most informative features.
+
 **Skills demonstrated:**
 - NLP & text preprocessing
 - Machine Learning pipeline
