@@ -1,6 +1,6 @@
 # 📊 Aiswarya's Data Analytics Portfolio
 
-Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. I’m building hands-on skills in **Power BI, SQL, Python, and Excel** through real-world projects. This portfolio is a reflection of my learning journey, showcasing my progress and capabilities as I transition into a career in data analytics.
+Hi! I'm Aiswarya — a Computer Science graduate and **Data Analytics Professional**. I’m building hands-on skills in **Power BI, SQL, Python, and Excel** through real-world projects. This portfolio is a reflection of my learning journey, showcasing my progress and capabilities as I transition into a career in data analytics.
 
 ---
 
@@ -11,6 +11,7 @@ Hi! I'm Aiswarya — a Computer Science graduate and aspiring **Data Analyst**. 
 - **Visualization**: Power BI, matplotlib, seaborn
 - **Databases**: MySQL
 - **Tools**: VS Code, GitHub, Forage, Excel
+- **Programming Languages**: Python, R
 - Machine learning and Data engineering fundamentals
 
 ---
@@ -44,7 +45,37 @@ A Machine Learning + NLP project that identifies fraudulent job postings. Featur
 ![View](Screenshot_fake_job_post.PNG)  
 
 
-[🔗 View Project](https://github.com/Aiswarya196/fake-job-post-detection.git)
+[🔗 View Full Project](https://github.com/Aiswarya196/fake-job-post-detection.git)
+
+---
+
+## [E-Commerce Sales Funnel & Conversion Optimization Analysis](https://github.com/Aiswarya196/ecommerce-sales-funnel-analysis.git)
+This project focuses on analyzing the customer journey of an e-commerce platform. The goal was to identify where users drop off in the sales funnel, evaluate the effectiveness of different marketing channels, and provide actionable recommendations to improve conversion rates and revenue.
+
+**Skills demonstrated:**
+- SQL 
+- Advanced CTEs 
+- Conditional Aggregation 
+- Date & Time Manipulation 
+- Funnel Visualization 
+- Conversion Rate Optimization
+
+**Technical Insights:**
+Based on a 30-day analysis of the dataset, the following performance benchmarks were established:
+
+- Funnel Conversion: The site attracted 2,904 unique visitors, resulting in 466 successful purchases, reflecting an overall conversion rate of 16%.
+
+- Checkout Efficiency: Once a user starts the checkout process, there is a 73% conversion rate to final purchase (640 checkouts vs. 466 purchases).
+
+- Channel Performance: Email is the most efficient channel with a 34% purchase conversion rate.
+
+- Social Media drives high traffic (860 views) but converts at the lowest rate of 6%.
+
+- Customer Velocity: Converted users complete their journey from initial view to purchase in an average of 24.42 minutes.
+
+- Financials: The Average Order Value (AOV) is $106.05, with a Revenue Per Visitor (RPV) of $17.02.
+    
+[🔗 View Full Project](https://github.com/Aiswarya196/ecommerce-sales-funnel-analysis.git)
 
 ---
 
@@ -69,7 +100,7 @@ A dashboard project built using **SQL Server Management Studio (SSMS)** and **Ex
 ![Overview Dashboard]([Dashboard_screenshots/OVERVIEW_DASHBOARD.png](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards/blob/main/Dashboard%20screenshots/OVERVIEW%20DASHBOARD.png))  
 ![Summary Dashboard]([Dashboard_screenshots/SUMMARY_DASHBOARD.png](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards/blob/main/Dashboard%20screenshots/SUMMARY%20DASHBOARD.png))
 
-[🔗 View Project on GitHub](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards.git)
+[🔗 View Full Project](https://github.com/Aiswarya196/Bank_Loan_Report_Dashboards.git)
 
 ---
 
@@ -89,7 +120,8 @@ A dashboard project built using **SQL Server Management Studio (SSMS)** and **Ex
 - Performed data cleaning & filtering in **Power Query**
 - Included dynamic slicers, KPIs, Top 5 customer & product views
 - 📄 [View Dashboard (PDF)](https://github.com/Aiswarya196/PowerBI-Sales-Dashboard/blob/main/dashboard-preview.pdf)
-- [View Project](https://github.com/Aiswarya196/PowerBI-Sales-Dashboard)
+- 
+[View Full Project](https://github.com/Aiswarya196/PowerBI-Sales-Dashboard)
 
 ---
 
@@ -112,6 +144,11 @@ A dashboard project built using **SQL Server Management Studio (SSMS)** and **Ex
 ---
 
 ## 📌 Certifications
+
+### Google AI Professional Certificate (2026)
+- Leveraged generative AI tools to streamline data cleaning, exploration, and visualization, significantly reducing the time from raw data to actionable insights.
+- Mastered advanced prompting techniques to conduct deep-market research, synthesize complex information, and automate high-level reporting workflows.
+- 🎓 [View Certificate](https://github.com/Aiswarya196/project-portfolio/blob/main/Google%20AI.pdf)
 
 ### 🧪 [Tata GenAI Data Analytics Job Simulation  - Forage](https://www.theforage.com/)
 - Completed a job simulation involving AI-powered data analytics and strategy development for the Financial Services team at Tata iQ.
